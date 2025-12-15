@@ -22,8 +22,6 @@ env/
 Thumbs.db
 
 # Project specific
-*.pkl
-*.png
 frozen_lake8x8.pkl
 frozen_lake8x8.png
 frozen_lake_model.pkl
