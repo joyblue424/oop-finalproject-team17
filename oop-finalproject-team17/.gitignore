@@ -21,8 +21,3 @@ env/
 .DS_Store
 Thumbs.db
 
-# Project specific
-frozen_lake8x8.pkl
-frozen_lake8x8.png
-frozen_lake_model.pkl
-frozen_lake_training.png
