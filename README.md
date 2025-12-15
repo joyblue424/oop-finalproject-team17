@@ -431,7 +431,7 @@ B123245025 李君潔: Part1, Part2, Report
 B123245026 黃昱憙: Part1, Part3, Report  
 B123040060 陳泉龍: Part1, Part2, Presenter
 
-[image1]: oop-finalproject-team17/part3/reward_curve.png
+[image1]: reward_curve_random.png
 
 [image2]: oop-finalproject-team17/part3/policy_map.png
 
