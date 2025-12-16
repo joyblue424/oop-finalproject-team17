@@ -427,9 +427,10 @@ Testing aborted by user.
 ![][image5]        
 
 **Contribution lists**    
-B123245025 李君潔: Part1, Part2, Report  
-B123245026 黃昱憙: Part1, Part3, Report  
-B123040060 陳泉龍: Part1, Part2, Presenter
+B123245025 李君潔: Part1, Part2, Report,ppt 
+B123245026 黃昱憙: Part1, Part3, Report, ppt  
+B123040060 陳泉龍: Part1, Part2, Report, 
+ppt, Presenter
 
 [image1]: reward_curve_random.png
 
